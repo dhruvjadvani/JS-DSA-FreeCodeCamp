@@ -7,3 +7,5 @@ var c = "I am a";
 a = a + 1;
 b = b + 5;
 c = c + " String!";
+
+// https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-uninitialized-variables
