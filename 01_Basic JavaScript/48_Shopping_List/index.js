@@ -1,1 +1,3 @@
+const myList = [["one",1], ["two", 2], ["three", 3], ["four", 4], ["five", 5]];
 
+// https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/shopping-list
