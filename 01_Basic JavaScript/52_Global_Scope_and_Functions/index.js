@@ -18,3 +18,5 @@ function fun2() {
   }
   console.log(output);
 }
+
+// https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/global-scope-and-functions
