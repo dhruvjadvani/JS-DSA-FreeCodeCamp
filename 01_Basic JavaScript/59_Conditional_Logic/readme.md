@@ -3,7 +3,7 @@ if statements are used to make decisions in code. The keyword if tells JavaScrip
 
 When the condition evaluates to true, the program executes the statement inside the curly braces. When the Boolean condition evaluates to false, the statement inside the curly braces will not execute.
 
-*Pseudocode*
+**Pseudocode**
 ```
 if (condition is true) {
   statement is executed
