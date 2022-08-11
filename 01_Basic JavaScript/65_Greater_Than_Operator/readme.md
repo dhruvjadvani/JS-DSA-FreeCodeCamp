@@ -3,7 +3,7 @@ The greater than operator (>) compares the values of two numbers. If the number 
 Like the equality operator, the greater than operator will convert data types of values while comparing.
 
 Examples
-```
+```javascript
 5   >  3  // true
 7   > '3' // true
 2   >  3  // false
