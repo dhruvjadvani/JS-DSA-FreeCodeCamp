@@ -16,4 +16,4 @@ function testElse(val) {
 
 testElse(4);
 
-// 
+// https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/introducing-else-statements
