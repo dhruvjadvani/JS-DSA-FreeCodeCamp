@@ -11,4 +11,4 @@ function testElseIf(val) {
 testElseIf(7);
 
 
-// 
+// https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/introducing-else-if-statements
