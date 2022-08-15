@@ -23,4 +23,4 @@ function golfScore(par, strokes) {
 golfScore(5, 4);
 
 
-
+// https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/golf-code
