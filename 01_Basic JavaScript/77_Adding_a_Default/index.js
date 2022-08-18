@@ -2,19 +2,18 @@ function switchOfStuff(val) {
   let answer = "";
   // Only change code below this line
   switch (val) {
-    case 1:
+    case "a":
       answer = 'apple';
       break;
-    case 2:
+    case "b":
       answer = 'bird';
       break;
-    case 3:
+    case "c":
       answer = 'cat';
       break;
     default:
       answer = 'stuff';
       break;
-    
   }
 
 
@@ -23,3 +22,5 @@ function switchOfStuff(val) {
 }
 
 switchOfStuff(1);
+
+// https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/adding-a-default-option-in-switch-statements
