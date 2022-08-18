@@ -1,4 +1,4 @@
-Replacing If Else Chains with Switch
+# Replacing If Else Chains with Switch
 If you have many options to choose from, a switch statement can be easier to write than many chained if/else if statements. The following:
 ```javascript
 if (val === 1) {
