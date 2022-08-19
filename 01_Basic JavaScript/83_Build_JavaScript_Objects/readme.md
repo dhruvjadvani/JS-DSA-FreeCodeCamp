@@ -22,4 +22,4 @@ const anotherObject = {
   "model": "focus"
 };
 ```
-However, if your object has any non-string properties, JavaScript will automatically typecast them as strings.
+**However, if your object has any non-string properties, JavaScript will automatically typecast them as strings.**
