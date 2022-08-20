@@ -1,7 +1,10 @@
 # Delete Properties from a JavaScript Object
 We can also delete properties from objects like this:
 
+```javascript
 delete ourDog.bark;
+```
+
 Example:
 ```javascript
 const ourDog = {
