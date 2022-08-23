@@ -1,3 +1,4 @@
+# Declare String Variables
 Previously you used the following code to declare a variable:
 ```javascript
 var myName;
