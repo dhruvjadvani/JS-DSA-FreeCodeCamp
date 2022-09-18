@@ -3,7 +3,7 @@ We can also use the += operator to concatenate a string onto the end of an exist
 
 Note: Watch out for spaces. Concatenation does not add spaces between concatenated strings, so you'll need to add them yourself.
 
-Example:
+## Example:
 ```javascript
 let ourStr = "I come first. ";
 ourStr += "I come second.";
