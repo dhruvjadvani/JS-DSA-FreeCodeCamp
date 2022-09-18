@@ -8,4 +8,5 @@ For example, you can get the value of the third-to-last letter of the ```const f
 const firstName = "Augusta";
 const thirdToLastLetter = firstName[firstName.length - 3];
 ```
+
 ```thirdToLastLetter``` would have a value of the string ```s```.
