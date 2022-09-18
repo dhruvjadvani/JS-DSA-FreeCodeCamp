@@ -4,7 +4,7 @@ You can use the same principle we just used to retrieve the last character in a 
 For example, you can get the value of the third-to-last letter of the ```const firstName = "Augusta"``` string by using ```firstName[firstName.length - 3]```
 
 ## Example:
-```jqvascript
+```javascript
 const firstName = "Augusta";
 const thirdToLastLetter = firstName[firstName.length - 3];
 ```
