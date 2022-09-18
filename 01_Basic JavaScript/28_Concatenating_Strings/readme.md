@@ -7,7 +7,7 @@ In JavaScript, when the + operator is used with a String value, it is called the
 ```
 Note: Watch out for spaces. Concatenation does not add spaces between concatenated strings, so you'll need to add them yourself.
 
-Example:
+## Example:
 ```javascript
 const ourStr = "I come first. " + "I come second.";
 ```
