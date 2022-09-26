@@ -12,3 +12,5 @@ console.log(howMany("string", null, [1, 2, 3], { }));
 The console would display the strings ```You have passed 3 arguments.``` and ```You have passed 4 arguments.```.
 
 The rest parameter eliminates the need to check the ```args``` array and allows us to apply ```map(), filter() and reduce()``` on the parameters array
+
+## There is difference between rest and spread operators in JS.
