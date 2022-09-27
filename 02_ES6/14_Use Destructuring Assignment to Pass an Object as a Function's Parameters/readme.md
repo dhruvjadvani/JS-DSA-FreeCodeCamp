@@ -14,4 +14,4 @@ const profileUpdate = ({ name, age, nationality, location }) => {
 
 }
 ```
-When profileData is passed to the above function, the values are destructured from the function parameter for use within the function.
+When ```profileData``` is passed to the above function, the values are destructured from the function parameter for use within the function.
