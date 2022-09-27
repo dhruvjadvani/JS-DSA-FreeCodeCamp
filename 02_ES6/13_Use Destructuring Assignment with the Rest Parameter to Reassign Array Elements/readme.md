@@ -1,7 +1,7 @@
 # Use Destructuring Assignment with the Rest Parameter to Reassign Array Elements
 In some situations involving array destructuring, we might want to collect the rest of the elements into a separate array.
 
-The result is similar to Array.prototype.slice(), as shown below:
+The result is similar to ```Array.prototype.slice()```, as shown below:
 ```javascript
 const [a, b, ...arr] = [1, 2, 3, 4, 5, 7];
 console.log(a, b);
