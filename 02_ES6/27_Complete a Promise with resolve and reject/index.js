@@ -4,7 +4,9 @@ const makeServerRequest = new Promise((resolve, reject) => {
     
   if(responseFromServer) {
     // Change this line
+    resolve("We got the data");
   } else {  
     // Change this line
+    reject("Data not received");
   }
 });
