@@ -9,5 +9,6 @@ let hugStr = "Bear hug";
 let huRegex = /hu./;
 huRegex.test(humStr);
 huRegex.test(hugStr);
-Both of these test calls would return true.
 ```
+Both of these ```test``` calls would return ```true```.
+
