@@ -2,3 +2,4 @@ let quoteSample = "Beware of bugs in the above code; I have only proved it corre
 let vowelRegex = /[aeiou]/ig; // Change this line
 let result =  quoteSample.match(vowelRegex);// Change this line
 
+console.log(result);
