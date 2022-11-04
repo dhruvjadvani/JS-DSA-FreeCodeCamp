@@ -14,5 +14,6 @@ Any other forms of ```Kevin``` will not match. For example, the regex ```/Kevin/
 ```javascript
 let wrongRegex = /kevin/;
 wrongRegex.test(testStr);
-This test call will return false.
 ```
+This test call will return false.
+
