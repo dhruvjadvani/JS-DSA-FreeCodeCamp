@@ -3,7 +3,7 @@ You can specify the lower and upper number of patterns with quantity specifiers 
 
 To only specify the lower number of patterns, keep the first number followed by a comma.
 
-For example, to match only the string hah with the letter a appearing at least 3 times, your regex would be /ha{3,}h/.
+For example, to match only the string ```hah``` with the letter ```a``` appearing at least ```3``` times, your regex would be ```/ha{3,}h/```.
 ```javascript
 let A4 = "haaaah";
 let A2 = "haah";
@@ -13,4 +13,4 @@ multipleA.test(A4);
 multipleA.test(A2);
 multipleA.test(A100);
 ```
-In order, the three test calls would return true, false, and true.
+In order, the three ```test``` calls would return ```true```, ```false```, and ```true```.
