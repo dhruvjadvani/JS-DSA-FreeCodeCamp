@@ -10,8 +10,8 @@ This would log ```Alan```, ```Jeff```, and ```Sarah``` - each value on its own l
 In this statement, we defined a variable user, and as you can see, this variable was reset during each iteration to each of the object's keys as the statement looped through the object, resulting in each user's name being printed to the console.
 
 NOTE: Objects do not maintain an ordering to stored keys like arrays do; thus a key's position on an object, or the relative order in which it appears, is irrelevant when referencing or accessing that key.
-
-We've defined a function countOnline which accepts one argument (a users object). Use a for...in statement within this function to loop through the users object passed into the function and return the number of users whose online property is set to true. An example of a users object which could be passed to countOnline is shown below. Each user will have an online property with either a true or false value.
+-----------------------------------------------------
+We've defined a function ```countOnline``` which accepts one argument (a users object). Use a for...in statement within this function to loop through the users object passed into the function and return the number of users whose ```online``` property is set to ```true```. An example of a users object which could be passed to ```countOnline``` is shown below. Each user will have an ```online``` property with either a ```true``` or ```false``` value.
 ```javascript
 {
   Alan: {
