@@ -1,23 +1,10 @@
 function chunkArrayInGroups(arr, size) {
-  let temp = [];
-  const result = []
+  const newArr = [];
 
-  for(let i = 0; i < arr.length; i++) {
-    if (i % size !== size - 1){
-      temp.push(arr[i]);
-    } else {
-      temp.push(arr[i]);
-      result.push(temp);
-      temp = [];
-    }
+  for (let i = 0; i < arr.length; i += size) {
+    newArr.push(arr.slice(i, i + size));
   }
-
-   if (temp.length !== 0) {
-     result.push(temp);
-   }
-
-   
-  return result;
+  
+  return newArr;
 }
-
 chunkArrayInGroups(["a", "b", "c", "d"], 2);
