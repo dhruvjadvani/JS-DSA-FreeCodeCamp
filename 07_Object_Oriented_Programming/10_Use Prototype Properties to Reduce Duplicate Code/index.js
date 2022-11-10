@@ -1,1 +1,11 @@
+function Dog(name) {
+  this.name = name;
+}
 
+
+
+// Only change code above this line
+let beagle = new Dog("Snoopy");
+Dog.prototype.numLegs = 2;
+
+console.log(beagle.numLegs)
