@@ -7,7 +7,7 @@ A better way is to use the ```prototype``` of ```Bird```. Properties in the ```p
 ```javasacript
 Bird.prototype.numLegs = 2;
 ```
-Now all instances of ````Bird``` have the ```numLegs``` property.
+Now all instances of ```Bird``` have the ```numLegs``` property.
 ```javascript
 console.log(duck.numLegs);
 console.log(canary.numLegs);
