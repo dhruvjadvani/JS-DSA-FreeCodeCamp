@@ -16,4 +16,4 @@ Bird.prototype.isPrototypeOf(duck);
 This would return ```true```.
 
 # Problem Statement
-Use isPrototypeOf to check the prototype of beagle.
+Use ```isPrototypeOf``` to check the ```prototype``` of ```beagle```.
