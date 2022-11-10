@@ -9,5 +9,6 @@ console.log(duck.name);
 ```
 
 Dot notation is used on the object name, ```duck```, followed by the name of the property, ```name```, to access the value of ```Aflac```.
--------------------------------------------------
+
+# Problem Statement
 Print both properties of the ```dog``` object to your console.
