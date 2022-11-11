@@ -3,11 +3,11 @@ Functional programming is a style of programming where solutions are simple, iso
 
 Functional programming is about:
 
-Isolated functions - there is no dependence on the state of the program, which includes global variables that are subject to change
+- Isolated functions - there is no dependence on the state of the program, which includes global variables that are subject to change
 
-Pure functions - the same input always gives the same output
+- Pure functions - the same input always gives the same output
 
-Functions with limited side effects - any changes, or mutations, to the state of the program outside the function are carefully controlled
+- Functions with limited side effects - any changes, or mutations, to the state of the program outside the function are carefully controlled
 
 # Problem Statement
 The members of freeCodeCamp happen to love tea.
