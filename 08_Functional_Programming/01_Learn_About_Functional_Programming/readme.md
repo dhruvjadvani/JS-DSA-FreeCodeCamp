@@ -1,5 +1,5 @@
 # Learn About Functional Programming
-Functional programming is a style of programming where solutions are simple, isolated functions, without any side effects outside of the function scope: INPUT -> PROCESS -> OUTPUT
+Functional programming is a style of programming where solutions are simple, isolated functions, without any side effects outside of the function scope: ```INPUT -> PROCESS -> OUTPUT```
 
 Functional programming is about:
 
@@ -12,4 +12,4 @@ Functions with limited side effects - any changes, or mutations, to the state of
 # Problem Statement
 The members of freeCodeCamp happen to love tea.
 
-In the code editor, the prepareTea and getTea functions are already defined for you. Call the getTea function to get 40 cups of tea for the team, and store them in the tea4TeamFCC variable.
+In the code editor, the ```prepareTea``` and ```getTea``` functions are already defined for you. Call the ```getTea``` function to get 40 cups of tea for the team, and store them in the ```tea4TeamFCC``` variable.
