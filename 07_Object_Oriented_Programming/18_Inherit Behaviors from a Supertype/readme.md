@@ -22,3 +22,5 @@ animal instanceof Animal;
 The instanceof method here would return true.
 
 # Problem Statement
+Use Object.create to make two instances of Animal named duck and beagle.
+
