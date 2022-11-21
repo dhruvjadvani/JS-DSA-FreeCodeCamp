@@ -11,7 +11,8 @@ function diffArray(arr1, arr2) {
 
   onlyInFirst(arr1, arr2);
   onlyInFirst(arr2, arr1);
-
+  
+  console.log(newArr);
   return newArr;
 }
 
