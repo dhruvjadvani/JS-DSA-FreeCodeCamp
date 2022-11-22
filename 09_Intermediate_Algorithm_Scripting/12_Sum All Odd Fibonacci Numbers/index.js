@@ -1,14 +1,21 @@
 function sumFibs(num) {
   let a = 0;
   let b = 1;
+  
+  let c = a + b;
   let sum = 0;
-  while (b <= num) {
-    if (b % 2 === 1) {
-      sum = sum + b;
+  
+  while (c <= num) {
+    
+    if (c % 2 === 1) {
+      sum = sum + c;
     }
-    b = b + a;
-    a = b - a;
+
+    c = a + b;
+    a = b;
+    b = c;
   }
+
 
   return sum;
 }
