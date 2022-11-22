@@ -1,28 +1,28 @@
 function convertHTML(str) {
-  let temp = str.split("");
+  let arr = str.split("");
 
-  for (let i = 0; i < temp.length; i++) {
-    switch (temp[i]) {
+  for (let i = 0; i < arr.length; i++) {
+    switch (arr[i]) {
       case "<":
-        temp[i] = "&lt;";
+        arr[i] = "&lt;";
         break;
       case "&":
-        temp[i] = "&amp;";
+        arr[i] = "&amp;";
         break;
       case ">":
-        temp[i] = "&gt;";
+        arr[i] = "&gt;";
         break;
       case '"':
-        temp[i] = "&quot;";
+        arr[i] = "&quot;";
         break;
       case "'":
-        temp[i] = "&apos;";
+        arr[i] = "&apos;";
         break;
     }
   }
 
-  temp = temp.join("");
-  return temp;
+  let newStr = arr.join("");
+  return newStr;
 }
 
 convertHTML("Dolce & Gabbana");
