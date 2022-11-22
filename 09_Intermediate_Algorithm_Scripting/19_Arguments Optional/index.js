@@ -1,12 +1,20 @@
 function addTogether() {
   const [first, second] = arguments;
-  if (typeof(first) !== "number")
+  
+  if (typeof(first) !== "number") {
     return undefined;
-  if (arguments.length === 1)
+  }
+    
+  if (arguments.length === 1) {
     return (second) => addTogether(first, second);
-  if (typeof(second) !== "number")
+  }
+    
+  if (typeof(second) !== "number") {
     return undefined;
-  return first + second;
+  }
+    
+  let sum = first + second;
+  return sum;
 }
 
 addTogether(2,3);
