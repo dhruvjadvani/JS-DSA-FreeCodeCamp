@@ -1,7 +1,7 @@
 function convertHTML(str) {
   let temp = str.split("");
 
-  for (var i = 0; i < temp.length; i++) {
+  for (let i = 0; i < temp.length; i++) {
     switch (temp[i]) {
       case "<":
         temp[i] = "&lt;";
