@@ -4,9 +4,9 @@ function sumFibs(num) {
   let sum = 0;
   while (b <= num) {
     if (b % 2 === 1) {
-      sum += b;
+      sum = sum + b;
     }
-    b += a;
+    b = b + a;
     a = b - a;
   }
 
