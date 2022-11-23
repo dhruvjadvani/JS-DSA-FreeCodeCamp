@@ -1,7 +1,8 @@
 # Map the Debris
 According to Kepler's Third Law, the orbital period  T  of two point masses orbiting each other in a circular or elliptic orbit is:
 
-T=2πa3μ−−−√
+![image](https://user-images.githubusercontent.com/25152105/203535037-04aa2067-0a84-42b0-b23b-07bdac46e652.png)
+
  
 - a  is the orbit's semi-major axis
 - μ=GM  is the standard gravitational parameter
