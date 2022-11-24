@@ -12,3 +12,6 @@ We tell JavaScript to create or declare a variable by putting the keyword var in
 var ourName;
 ```
 creates a variable called ourName. In JavaScript we end statements with semicolons. Variable names can be made up of numbers, letters, and $ or _, but may not contain spaces or start with a number.
+
+# Problem Statement
+Use the var keyword to create a variable called myName.
