@@ -1,7 +1,7 @@
 function palindrome(str) {
   let revStr = "";
 
-  str = str. toLowerCase();
+  str = str.toLowerCase();
   str = str.replace(/[\W_]/g,"");
   
   
