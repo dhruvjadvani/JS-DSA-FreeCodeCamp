@@ -1,13 +1,16 @@
 # Storing Values with the Assignment Operator
-In JavaScript, you can store a value in a variable with the assignment operator (=).
+In JavaScript, you can store a value in a variable with the assignment operator (```=```).
 ```javascript
 myVariable = 5;
 ```
-This assigns the Number value 5 to myVariable.
+This assigns the ```Number``` value ```5``` to ```myVariable```.
 
-If there are any calculations to the right of the = operator, those are performed before the value is assigned to the variable on the left of the operator.
+If there are any calculations to the right of the ```=``` operator, those are performed before the value is assigned to the variable on the left of the operator.
 ```javascript
 var myVar;
 myVar = 5;
 ```
-First, this code creates a variable named myVar. Then, the code assigns 5 to myVar. Now, if myVar appears again in the code, the program will treat it as if it is 5.
+First, this code creates a variable named ```myVar```. Then, the code assigns ```5``` to ```myVar```. Now, if myVar appears again in the code, the program will treat it as if it is ```5```.
+
+# Problem Statement
+Assign the value ```7``` to variable ```a```.
