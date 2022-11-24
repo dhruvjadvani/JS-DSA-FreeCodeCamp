@@ -13,5 +13,3 @@
 - Telephone Number Validator
 - Cash Register
 
-
-# Certificate
