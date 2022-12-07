@@ -11,5 +11,3 @@
 - Telephone Number Validator
 - Cash Register
 
-# Certificate
-![image](https://user-images.githubusercontent.com/25152105/203703528-2dc4b3ab-8ba4-4695-b1b6-34ea3b336fbd.png)
