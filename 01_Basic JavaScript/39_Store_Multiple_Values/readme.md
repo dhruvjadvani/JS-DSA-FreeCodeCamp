@@ -5,3 +5,5 @@ You start an array declaration with an opening square bracket, end it with a clo
 ```javascript
 const sandwich = ["peanut butter", "jelly", "bread"];
 ```
+# Problem Statement
+Modify the new array ```myArray``` so that it contains both a string and a number (in that order).
