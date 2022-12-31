@@ -10,3 +10,5 @@ const thirdToLastLetter = firstName[firstName.length - 3];
 ```
 
 ```thirdToLastLetter``` would have a value of the string ```s```.
+
+# Problem Statement
