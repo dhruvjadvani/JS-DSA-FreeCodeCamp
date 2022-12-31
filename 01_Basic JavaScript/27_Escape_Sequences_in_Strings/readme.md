@@ -17,7 +17,7 @@ We learned this in the previous challenge.
 
 ```\r```	| carriage return
 
-\t	| tab
+```\t```	| tab
 
 \b	| word boundary
 
