@@ -13,3 +13,4 @@ const data = array[1];
 The ```console.log(array[0])``` prints ```50```, and ```data``` has the value ```60```.
 
 # Problem Statement
+Create a variable called ```myData``` and set it to equal the first value of ```myArray``` using bracket notation.
