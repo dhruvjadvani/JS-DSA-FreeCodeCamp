@@ -10,4 +10,4 @@ function myFun() {
   return someVar;
 }
 ```
-The function myFun will return the string Head because the local version of the variable is present.
+The function ```myFun``` will return the string ```Head``` because the local version of the variable is present.
