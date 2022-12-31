@@ -8,4 +8,4 @@ ourArray[0] = 15;
 ```
 ```ourArray``` now has the value ```[15, 40, 30]```.
 
-Note: There shouldn't be any spaces between the array name and the square brackets, like array [0]. Although JavaScript is able to process this correctly, this may confuse other programmers reading your code.
+**Note**: There shouldn't be any spaces between the array name and the square brackets, like ```array [0]```. Although JavaScript is able to process this correctly, this may confuse other programmers reading your code.
