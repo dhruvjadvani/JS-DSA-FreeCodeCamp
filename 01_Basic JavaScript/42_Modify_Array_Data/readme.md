@@ -11,3 +11,4 @@ ourArray[0] = 15;
 **Note**: There shouldn't be any spaces between the array name and the square brackets, like ```array [0]```. Although JavaScript is able to process this correctly, this may confuse other programmers reading your code.
 
 # Problem Statement
+Modify the data stored at index 0 of myArray to a value of 45.
