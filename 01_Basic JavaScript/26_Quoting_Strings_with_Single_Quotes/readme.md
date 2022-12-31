@@ -21,3 +21,6 @@ In the goodStr above, you can use both quotes safely by using the backslash ```\
 
 
 # Problem Statement
+Change the provided string to a string with single quotes at the beginning and end and no escape characters.
+
+Right now, the ```<a>``` tag in the string uses double quotes everywhere. You will need to change the outer quotes to single quotes so you can remove the escape characters.
