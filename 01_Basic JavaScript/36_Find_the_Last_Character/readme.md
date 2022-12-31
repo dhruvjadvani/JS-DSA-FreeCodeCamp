@@ -9,3 +9,5 @@ const firstName = "Ada";
 const lastLetter = firstName[firstName.length - 1];
 ```
 ```lastLetter``` would have a value of the string ```a```.
+
+# Problem Statement
