@@ -11,4 +11,6 @@ arr1.push(4);
 const arr2 = ["Stimpson", "J", "cat"];
 arr2.push(["happy", "joy"]);
 ```
-```arr1``` now has the value ```[1, 2, 3, 4]``` and ```arr2``` has the value ["Stimpson", "J", "cat", ["happy", "joy"]].
+```arr1``` now has the value ```[1, 2, 3, 4]``` and ```arr2``` has the value ```["Stimpson", "J", "cat", ["happy", "joy"]]```.
+
+# Problem Statement
