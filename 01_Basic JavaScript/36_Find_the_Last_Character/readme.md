@@ -11,3 +11,6 @@ const lastLetter = firstName[firstName.length - 1];
 ```lastLetter``` would have a value of the string ```a```.
 
 # Problem Statement
+Use bracket notation to find the last character in the lastName variable.
+
+Hint: Try looking at the example above if you get stuck.
