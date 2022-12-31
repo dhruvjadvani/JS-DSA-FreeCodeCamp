@@ -1,5 +1,5 @@
 # Escaping Literal Quotes in Strings
-When you are defining a string you must start and end with a single or double quote. What happens when you need a literal quote: " or ' inside of your string?
+When you are defining a string you must start and end with a single or double quote. What happens when you need a literal quote: ```"``` or ```'``` inside of your string?
 
 In JavaScript, you can escape a quote from considering it as an end of string quote by placing a backslash (\) in front of the quote.
 ```
@@ -9,3 +9,5 @@ This signals to JavaScript that the following quote is not the end of the string
 ```
 Alan said, "Peter is learning JavaScript".
 ```
+
+# Problem Statement
