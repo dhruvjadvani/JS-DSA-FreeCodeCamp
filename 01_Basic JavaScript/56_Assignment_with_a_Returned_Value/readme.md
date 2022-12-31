@@ -5,3 +5,5 @@ Assume we have pre-defined a function ```sum``` which adds two numbers together,
 ourSum = sum(5, 12);
 ```
 will call the ```sum``` function, which returns a value of ```17``` and assigns it to the ```ourSum``` variable.
+
+# Problem Statement
