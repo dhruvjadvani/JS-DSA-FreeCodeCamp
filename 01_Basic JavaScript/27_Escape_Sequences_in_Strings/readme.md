@@ -19,8 +19,9 @@ We learned this in the previous challenge.
 
 ```\t```	| tab
 
-\b	| word boundary
+```\b```	| word boundary
 
-\f	| form feed
+```\f```	| form feed
 
-Note that the backslash itself must be escaped in order to display as a backslash.
+_Note that the backslash itself must be escaped in order to display as a backslash._
+
