@@ -11,4 +11,4 @@ const answer = plusThree(5);
 ```
 ```answer``` has the value ```8```.
 
-```plusThree``` takes an argument for ```num``` and returns a value equal to num + 3.
+```plusThree``` takes an argument for ```num``` and returns a value equal to ```num + 3```.
