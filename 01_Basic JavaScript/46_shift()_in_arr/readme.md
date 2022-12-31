@@ -8,4 +8,6 @@ Example:
 const ourArray = ["Stimpson", "J", ["cat"]];
 const removedFromOurArray = ourArray.shift();
 ```
-```removedFromOurArray``` would have a value of the string Stimpson, and ourArray would have ["J", ["cat"]].
+```removedFromOurArray``` would have a value of the string ```Stimpson```, and ```ourArray``` would have ```["J", ["cat"]]```.
+
+# Problem Statement
