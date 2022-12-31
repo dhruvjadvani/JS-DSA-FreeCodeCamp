@@ -12,3 +12,6 @@ const thirdToLastLetter = firstName[firstName.length - 3];
 ```thirdToLastLetter``` would have a value of the string ```s```.
 
 # Problem Statement
+Use bracket notation to find the second-to-last character in the lastName string.
+
+Hint: Try looking at the example above if you get stuck.
