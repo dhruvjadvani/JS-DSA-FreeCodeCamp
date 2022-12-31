@@ -11,4 +11,4 @@ function myTest() {
 myTest();
 console.log(loc);
 ```
-The ```myTest()``` function call will display the string ```foo``` in the console. The console.log(loc) line (outside of the myTest function) will throw an error, as loc is not defined outside of the function.
+The ```myTest()``` function call will display the string ```foo``` in the console. ```The console.log(loc)``` line (outside of the myTest function) will throw an error, as loc is not defined outside of the function.
