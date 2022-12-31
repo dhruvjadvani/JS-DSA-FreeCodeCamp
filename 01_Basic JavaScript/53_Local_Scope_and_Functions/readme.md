@@ -17,3 +17,5 @@ The ```myTest()``` function call will display the string ```foo``` in the consol
 The editor has two ```console.logs``` to help you see what is happening. Check the console as you code to see how it changes. Declare a local variable ```myVar``` inside ```myLocalScope``` and run the tests.
 
 **Note:** The console will still display ```ReferenceError: myVar is not defined```, but this will not cause the tests to fail.
+
+
