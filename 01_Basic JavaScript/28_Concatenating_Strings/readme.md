@@ -12,3 +12,6 @@ Note: Watch out for spaces. Concatenation does not add spaces between concatenat
 const ourStr = "I come first. " + "I come second.";
 ```
 The string ```I come first. I come second.``` would be displayed in the console.
+
+# Problem Statement
+Build  ```myStr``` from the strings ```This is the start.``` and ```This is the end.``` using the ```+``` operator. Be sure to include a space between the two strings.
