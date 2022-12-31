@@ -5,22 +5,22 @@ Quotes are not the only characters that can be escaped inside a string. There ar
 - To allow you to represent multiple quotes in a string without JavaScript misinterpreting what you mean.
 We learned this in the previous challenge.
 
-Code	Output
+#Code	| Output
 
-\'	single quote
+```\'```	| single quote
 
-\"	double quote
+```\"```	| double quote
 
-\\	backslash
+```\\```	| backslash
 
-\n	newline
+\n	| newline
 
-\r	carriage return
+\r	| carriage return
 
-\t	tab
+\t	| tab
 
-\b	word boundary
+\b	| word boundary
 
-\f	form feed
+\f	| form feed
 
 Note that the backslash itself must be escaped in order to display as a backslash.
