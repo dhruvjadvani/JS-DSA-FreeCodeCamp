@@ -5,4 +5,5 @@ The first element in each sub-array should contain a string with the name of the
 ```
 ["Chocolate Bar", 15]
 ```
+# Problem Statement
 There should be at least 5 sub-arrays in the list.
