@@ -6,4 +6,4 @@ Variables which are declared without the ```let``` or ```const``` keywords are a
 # Problem Statement
 Using ```let``` or ```const```, declare a global variable named ```myGlobal``` outside of any function. Initialize it with a value of ```10```.
 
-Inside function fun1, assign 5 to oopsGlobal without using the var, let or const keywords.
+Inside function ```fun1```, assign 5 to oopsGlobal without using the var, let or const keywords.
