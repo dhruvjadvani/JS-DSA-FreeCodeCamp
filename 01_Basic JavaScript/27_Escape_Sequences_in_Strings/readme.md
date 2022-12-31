@@ -13,7 +13,7 @@ We learned this in the previous challenge.
 
 ```\\```	| backslash
 
-\n	| newline
+```\n```	| newline
 
 \r	| carriage return
 
