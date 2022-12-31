@@ -14,4 +14,4 @@ addSum(3);
 ```addSum``` is a function without a ```return``` statement. The function will change the global ```sum``` variable but the returned value of the function is ```undefined```.
 
 # Problem Statement
-Create a function ```addFive``` without any arguments. This function adds 5 to the sum variable, but its returned value is undefined.
+Create a function ```addFive``` without any arguments. This function adds 5 to the ```sum``` variable, but its returned value is undefined.
