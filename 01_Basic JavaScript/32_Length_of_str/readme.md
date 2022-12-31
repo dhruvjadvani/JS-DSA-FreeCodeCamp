@@ -8,4 +8,4 @@ The value ```10``` would be displayed in the console. Note that the space charac
 For example, if we created a variable ```const firstName = "Ada"```, we could find out how long the string ```Ada``` is by using the ```firstName.length``` property.
 
 # Problem Statement
-Use the .length property to set lastNameLength to the number of characters in lastName.
+Use the ```.length``` property to set ```lastNameLength``` to the number of characters in ```lastName```.
