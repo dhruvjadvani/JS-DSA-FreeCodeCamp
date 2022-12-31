@@ -3,12 +3,14 @@ In programming, it is common to use assignments to modify the contents of a vari
 ```javascript
 myVar = myVar + 5;
 ```
-to add 5 to myVar. Since this is such a common pattern, there are operators which do both a mathematical operation and assignment in one step.
+to add ```5``` to ```myVar```. Since this is such a common pattern, there are operators which do both a mathematical operation and assignment in one step.
 
-One such operator is the += operator.
+One such operator is the ```+=``` operator.
 ```javascript
 let myVar = 1;
 myVar += 5;
 console.log(myVar);
 ```
-6 would be displayed in the console.
+```6``` would be displayed in the console.
+
+# Problem Statement
