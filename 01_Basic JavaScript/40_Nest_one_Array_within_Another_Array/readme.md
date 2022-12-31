@@ -6,4 +6,4 @@ const teams = [["Bulls", 23], ["White Sox", 45]];
 This is also called a multi-dimensional array.
 
 # Problem Statement
-Create a nested array called myArray.
+Create a nested array called ```myArray```.
