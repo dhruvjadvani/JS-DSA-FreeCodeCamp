@@ -8,4 +8,4 @@ For example, if ```const firstName = "Ada"```, you can get the value of the last
 const firstName = "Ada";
 const lastLetter = firstName[firstName.length - 1];
 ```
-lastLetter would have a value of the string a.
+```lastLetter``` would have a value of the string ```a```.
