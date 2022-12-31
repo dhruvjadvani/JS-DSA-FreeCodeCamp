@@ -1,5 +1,5 @@
 # Understand String Immutability
-In JavaScript, String values are immutable, which means that they cannot be altered once created.
+In JavaScript, ```String``` values are immutable, which means that they cannot be altered once created.
 
 For example, the following code will produce an error because the letter B in the string Bob cannot be changed to the letter J:
 ```javascript
