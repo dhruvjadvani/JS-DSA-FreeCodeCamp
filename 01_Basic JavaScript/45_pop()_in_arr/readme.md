@@ -1,7 +1,7 @@
 # Manipulate Arrays With pop()
-Another way to change the data in an array is with the .pop() function.
+Another way to change the data in an array is with the ```.pop()``` function.
 
-.pop() is used to pop a value off of the end of an array. We can store this popped off value by assigning it to a variable. In other words, .pop() removes the last element from an array and returns that element.
+```.pop()``` is used to pop a value off of the end of an array. We can store this popped off value by assigning it to a variable. In other words, ```.pop()``` removes the last element from an array and returns that element.
 
 Any type of entry can be popped off of an array - numbers, strings, even nested arrays.
 ```javascript
@@ -10,4 +10,4 @@ const oneDown = threeArr.pop();
 console.log(oneDown);
 console.log(threeArr);
 ```
-The first console.log will display the value 6, and the second will display the value [1, 4].
+The first ```console.log``` will display the value ```6```, and the second will display the value [1, 4].
