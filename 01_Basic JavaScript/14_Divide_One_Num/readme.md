@@ -9,3 +9,6 @@ const myVar = 16 / 2;
 ```
 ```myVar``` now has the value ```8```.
 
+# Problem Statement
+Change the ```0``` so that the ```quotient``` is equal to ```2```.
+
