@@ -11,3 +11,5 @@ function myFun() {
 }
 ```
 The function ```myFun``` will return the string ```Head``` because the local version of the variable is present.
+
+# Problem Statement
