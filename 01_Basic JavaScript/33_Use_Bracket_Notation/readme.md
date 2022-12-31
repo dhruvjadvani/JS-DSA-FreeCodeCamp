@@ -10,4 +10,6 @@ For example, the character at index 0 in the word ```Charles``` is ```C```. So i
 const firstName = "Charles";
 const firstLetter = firstName[0];
 ```
-firstLetter would have a value of the string C.
+```firstLetter``` would have a value of the string ```C```.
+
+# Problem Statement
