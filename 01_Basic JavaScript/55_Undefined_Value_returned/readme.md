@@ -12,3 +12,5 @@ function addSum(num) {
 addSum(3);
 ```
 ```addSum``` is a function without a ```return``` statement. The function will change the global ```sum``` variable but the returned value of the function is ```undefined```.
+
+# Problem Statement
