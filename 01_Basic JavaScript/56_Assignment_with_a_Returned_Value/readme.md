@@ -7,4 +7,4 @@ ourSum = sum(5, 12);
 will call the ```sum``` function, which returns a value of ```17``` and assigns it to the ```ourSum``` variable.
 
 # Problem Statement
-Call the processArg function with an argument of 7 and assign its return value to the variable processed.
+Call the ```processArg``` function with an argument of ```7``` and assign its return value to the variable ```processed```.
