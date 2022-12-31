@@ -13,3 +13,4 @@ function myFun() {
 The function ```myFun``` will return the string ```Head``` because the local version of the variable is present.
 
 # Problem Statement
+Add a local variable to ```myOutfit``` function to override the value of ```outerWear``` with the string ```sweater```.
