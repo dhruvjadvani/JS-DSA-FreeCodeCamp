@@ -9,3 +9,4 @@ ourStr += anAdjective;
 ```
 ```ourStr``` would have the value ```freeCodeCamp is awesome!```.
 
+# Problem Statement
