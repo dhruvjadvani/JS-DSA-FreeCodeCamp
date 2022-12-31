@@ -15,7 +15,7 @@ We learned this in the previous challenge.
 
 ```\n```	| newline
 
-\r	| carriage return
+```\r```	| carriage return
 
 \t	| tab
 
