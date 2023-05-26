@@ -1,32 +1,30 @@
 function convertToRoman(num) {
- let obj = {
-    M:  1000,
-    CM:	900,
-    D:	500,
-    CD:	400,
-    C:	100,
-    XC:	90,
-    L:	50,
-    XL:	40,
-    X:	10,
-    IX:	9,
-    V:	5,
-    IV:	4,
-    I:	1
- }
+  var romanNumeral = "";
+  
+  var romanValues = [
+    { arabic: 1000, roman: "M" },
+    { arabic: 900, roman: "CM" },
+    { arabic: 500, roman: "D" },
+    { arabic: 400, roman: "CD" },
+    { arabic: 100, roman: "C" },
+    { arabic: 90, roman: "XC" },
+    { arabic: 50, roman: "L" },
+    { arabic: 40, roman: "XL" },
+    { arabic: 10, roman: "X" },
+    { arabic: 9, roman: "IX" },
+    { arabic: 5, roman: "V" },
+    { arabic: 4, roman: "IV" },
+    { arabic: 1, roman: "I" }
+  ];
 
-let romanNum = [];
- if(num >= 10 && num < 40) {
-   if(num === 10) {
-     romanNum.push(num);
-   }
-   let lastDigit = num % 10;
-   romanNum.push(obj[lastDigit]);
-
-   let firstDigit = num / 10;
-   romanNum.unshift(obj[firstDigit]);
- } else if()
-
+  for (var i = 0; i < romanValues.length; i++) {
+    while (num >= romanValues[i].arabic) {
+      romanNumeral += romanValues[i].roman;
+      num -= romanValues[i].arabic;
+    }
+  }
+  
+  return romanNumeral;
 }
 
-convertToRoman(36);
+console.log(convertToRoman(36)); // Output: XXXVI
