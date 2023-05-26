@@ -11,3 +11,4 @@
 - Telephone Number Validator
 - Cash Register
 
+![image](https://github.com/dhruvjadvani/JS-DSA-FreeCodeCamp/assets/25152105/d80456bc-5135-4213-b110-238e10da1c9b)
